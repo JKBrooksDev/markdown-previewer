@@ -1,0 +1,12 @@
+.author{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 2px;
+}
+
+h3{
+    font-family: cursive;
+}

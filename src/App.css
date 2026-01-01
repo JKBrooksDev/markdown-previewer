@@ -1,0 +1,53 @@
+.heading{
+font-family: cursive;
+background-color: #d2691e;
+color: white;
+text-align: center;
+}
+
+#main{
+display: flex;
+flex-direction: row;
+margin-top: 4em;
+}
+
+.edit-header{
+  width: 100%;
+  text-align: center;
+  height: 15px;
+  background-color: #808080;
+  color: white;
+  margin-left: 1.7em;
+  /* width: 50%; */
+  /* border: 1px #808080; */
+}
+
+h5{
+margin: 0;
+}
+
+
+
+#editor{
+  height: 50vh;
+  /* width: 42em; */
+  width: 100%;
+  margin-left: 2em;
+}
+
+.preview-header{
+  border: 1px #808080;
+  text-align: center;
+  background-color: #808080;
+  color: white;
+  /* border: 1px solid black; */
+}
+
+.edit-container{
+  width: 50%;
+}
+
+#preview{
+  width: 90%;
+  margin-left: 3em;
+}
