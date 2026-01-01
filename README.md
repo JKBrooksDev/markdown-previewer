@@ -18,6 +18,10 @@ A responsive, React-based Markdown Previewer that converts GitHub-flavored markd
 ## How It Works
 The app listens for changes in the textarea and updates the preview pane using a markdown parsing library. The result is a smooth, real-time editing experience similar to popular markdown editors.
 
+## Live Demo
+[Click here to view the live site](https://markdown-previewer-xi-three.vercel.app/)
+
+
 ## Running Locally
 ```bash
 npm install
